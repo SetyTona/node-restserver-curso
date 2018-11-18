@@ -1,0 +1,16 @@
+{
+    "name": "07-restserver",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Josep Mª Picañol",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "colors": "^1.3.2",
+        "express": "^4.16.4"
+    }
+}
